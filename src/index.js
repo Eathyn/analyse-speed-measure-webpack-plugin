@@ -1,0 +1,1 @@
+console.log('hello speed-measure-webpack-plugin')

@@ -1,0 +1,5 @@
+.idea
+dist
+# include speed-measure-webpack-plugin package
+node_modules/*
+!node_modules/speed-measure-webpack-plugin
